@@ -3,4 +3,6 @@ courses
 
 Courses Exercises 
 
-ML / Machine Learning 
+ML / Machine Learning
+  Octave / Matlab 
+  .pdf for Exercises 
